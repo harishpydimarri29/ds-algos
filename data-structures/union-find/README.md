@@ -1,0 +1,3 @@
+# union-find data-structure
+
+To find connectedness [Reference](https://d3c33hcgiwev3.cloudfront.net/_b65e7611894ba175de27bd14793f894a_15UnionFind.pdf?Expires=1703548800&Signature=IxtEdZEmF~lQmCVAGxNbll7w6WQXDLyaHE3zJz3Kb0kg3veONHjTN838W4l6kxs~~qxIOVWsFMveHFLSRITFSPQV81oeaCQSpMI5DdmtroOr7zip2ylSuXbTwUdExVmnkpeSNJIdqQt1sX9cGw-aejX~EsZ8YmUzlh9bGwS5rpU_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
